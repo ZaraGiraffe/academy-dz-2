@@ -6,3 +6,4 @@ do
    let COUNTER=$COUNTER+1 
 done
 echo Change in bas script
+echo developing...
